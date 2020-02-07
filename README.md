@@ -1,8 +1,7 @@
 # Function_HitungBadan_withPython
 Program untuk menghitung tinggi badan, rata-rata badan. menggunakan fungsi
 
-
-https://github.com/Farid5/Function_HitungBadan_withPython/issues/1#issue-561919274
+![1](https://user-images.githubusercontent.com/32072262/74072705-44bcbd80-4a3a-11ea-98d4-4492651f89d3.png)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
